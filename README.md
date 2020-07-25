@@ -1,5 +1,6 @@
 # ag-tiles
 Produced vector tiles from optgeo/ag
+https://optgeo.github.io/ag-tiles/zxy/metadata.json
 
 ![screenshot](https://optgeo.github.io/ag/img/screenshot.jpg)
 
